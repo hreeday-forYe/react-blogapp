@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Nothing Matters Now",
+      "dateTime": "September 06, 2023 9:49:58 AM",
+      "body": "This is fucking awesome simple and authentic playful project Created using the React js "
+    },
+    {
+      "id": 2,
+      "title": "Twilight moon",
+      "dateTime": "September 06, 2023 9:50:29 AM",
+      "body": "Nothing matters now all is over now nothing to lose but we are over now"
+    },
+    {
+      "id": 3,
+      "title": "Come and get around ",
+      "dateTime": "September 06, 2023 9:50:50 AM",
+      "body": "Nothing to lose but its all over now and how can I be homophobic"
+    }
+  ]
+}
